@@ -28,9 +28,11 @@ API REST • bonnes pratiques • organisation propre des projets • résolutio
 
 ### 🔹QuickParking  
 Application web permettant de réserver et payer des places de stationnement.  
+
 **Techno :** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white), ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white), ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white), ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white), ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white), ![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white)
 
 **Rôle :** développement complet (frontend + backend), logique métier, UI simple et efficace.  
+
 **Lien :** https://github.com/CanadaBadiane/QuickParking
 
 ---
