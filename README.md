@@ -38,6 +38,24 @@ Application web permettant de réserver et payer des places de stationnement.
 
 **Lien :** https://github.com/CanadaBadiane/QuickParking
 
+### 🔹 Sportex
+Plateforme web de prédiction sportive par Intelligence Artificielle.
+
+**Techno :** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white), ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black), ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white), ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)  
+
+**Rôle :** développement full-stack (2FA, paiement Stripe, explicabilité IA avec SHAP, UI dark mode complète).
+
+**Lien :** https://github.com/CanadaBadiane/Sportex
+
+### 🔹 Alaska
+Boutique en ligne de manteaux d'hiver techniques, bilingue FR/EN.
+
+**Techno :** ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white), ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white), ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Rôle :** intégration de 7 pages (Accueil, À propos, Technologies, Journal, Lookbook, Articles, Campagnes), champs ACF Pro, filtres multilingues (Polylang) et boutique, intégration SMTP native.
+
+**Lien :** https://github.com/CanadaBadiane/Alaska
+
 ---
 
 ## 📊 Statistiques GitHub
