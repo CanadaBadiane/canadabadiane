@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est Canada Badiane
 
 Développeuse junior basée à Montréal, passionnée par la création d’applications web et mobile modernes, propres et intuitives.  
-J’aime transformer des idées en projets concrets, apprendre vite et travailler avec des outils actuels comme React, TypeScript et Node.js.
+J’aime transformer des idées en projets concrets, apprendre vite et travailler avec des outils actuels comme React, TypeScript, Node.js et plus encore.
 
 ---
 
